@@ -71,7 +71,7 @@ export default function Loader() {
           className="text-xs font-semibold tracking-wide"
           style={{ color: "rgba(237,237,237,0.55)" }}
         >
-          YO VERIFY
+          YO FRIEND
         </span>
       </div>
 
